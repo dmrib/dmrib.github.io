@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://dmrib.github.io",
     "hubpress": "https://dmrib.github.io",
-    "theme": "//dmrib.github.io/themes/casper",
+    "theme": "//dmrib.github.io/themes/saga",
     "images": "https://dmrib.github.io/images"
   },
   "initialisationConfigComponent": {
